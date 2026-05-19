@@ -4,4 +4,4 @@ lucro = faturamento - custo
 
 #print('O faturamento da Loja foi ' + str(faturamento) + ' .O Custo da Loja foi ' + str(custo) + 'O Lucro da Loja foi ' + str(lucro))
 
-print('O faturamento da loja foi {}' .format(faturamento))
+print('O faturamento da loja foi {}. O Custo da Loja foi {}. O Lucro da Loja foi {}' .format(faturamento, custo, lucro))
