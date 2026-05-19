@@ -10,8 +10,8 @@
 # com f-string 
 # print(f"O Faturamento foi de {faturamento} e o Lucro foi {lucro}")
 
-faturamento = input("Insira o Faturamento: ")
-custo = input("Insira o custo: ") 
+faturamento = float(input("Insira o Faturamento: "))
+custo = float(input("Insira o custo: ")) 
 
 print(type(faturamento))
 print(type(custo))
