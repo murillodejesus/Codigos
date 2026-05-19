@@ -1,2 +1,1 @@
-faturamento = 1000
-type(faturamento)
+print("Meu primeiro código")
